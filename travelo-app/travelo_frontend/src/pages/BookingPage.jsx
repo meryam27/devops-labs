@@ -120,7 +120,7 @@ const BookingPage = () => {
         });
       }
     } catch (error) {
-      console.error("Error occurred during flight search:", error);
+      console.error("Error during flight search:", error);
     }
   };
 
