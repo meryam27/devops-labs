@@ -9,7 +9,7 @@ export default function Navbar() {
       <ul>
         <li>
           <div className="logo">
-            <span className="bitra">Travelo</span>
+            <span className="bitra">Travelo updated by dev2</span>
           </div>
         </li>
         <li>
@@ -23,7 +23,7 @@ export default function Navbar() {
               </li>
               <li>
                 <div onClick={() => navigate("/")}>
-                  <strong>Hotels</strong>
+                  <strong>Hotels dev3</strong>
                 </div>
               </li>
               <li>
