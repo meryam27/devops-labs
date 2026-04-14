@@ -9,7 +9,7 @@ export default function Navbar() {
       <ul>
         <li>
           <div className="logo">
-            <span className="bitra">Travelo updated by dev2</span>
+            <span className="bitra">Travelo updated by dev2 number2</span>
           </div>
         </li>
         <li>
